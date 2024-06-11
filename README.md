@@ -10,5 +10,10 @@
   ```sh 
   nodemon
   ```
+
+3. migrade db
+   ```sh
+   npx prisma migrate dev
+   ```
 ## Keterangan
 api sederhana yang dibuat menggunakan express prisma postgresql@15
